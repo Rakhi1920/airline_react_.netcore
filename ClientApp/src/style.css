@@ -1,0 +1,24 @@
+﻿.table {
+    margin-top: 30px;
+}
+
+.textfield {
+    margin: 10px !important;
+}
+
+.dialogcontent {
+    width: 350px;
+}
+
+.formcontrollabel {
+    margin: 10px;
+    margin-right: 40px !important;
+}
+
+.target_overrideId {
+    display: none !important;
+}
+
+.add_target {
+    margin: 5px 5px 5px 1000px !important;
+}
